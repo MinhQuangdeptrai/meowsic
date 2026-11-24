@@ -1,1 +1,4 @@
-# meowsic
+# Tải về & Cài đặt: Hướng dẫn tải Meowsic-PC-Setup-x.y.z.exe từ https://github.com/MinhQuangdeptrai/meowsic/releases/latest, cách vượt qua cảnh báo Windows SmartScreen (More info → Run anyway), cập nhật đè giữ nguyên dữ liệu tại %LOCALAPPDATA%\Meowsic\data và yêu cầu hệ thống (Windows 10/11 64-bit, Edge WebView2 Runtime).
+Tính năng nổi bật: Phát nhạc từ YouTube, SoundCloud và file offline (MP3, FLAC, WAV, OGG, M4A); gợi ý theo gu, Daily Mix, tự phát/bù hàng đợi ngẫu nhiên theo gu khi còn 1 bài và Song Radio (◎); chế độ Cinema / Karaoke (F), lời bài hát LRCLIB, chỉnh lệch thời gian ±500ms ([/]), bật/tắt lyrics (L), video YouTube (V, scale 70%–140%), toàn màn hình (F11); Miniplayer luôn nổi (P) với 3 kích thước; đồng bộ màu theo ảnh bìa và tự động cập nhật âm thầm từ GitHub Releases.
+Bảng phím tắt nhanh: Đầy đủ các phím tắt điều khiển phát nhạc, tìm kiếm, âm lượng, lyrics, Cinema mode, Miniplayer và chuyển tab.
+Tác giả & Tiếp nhận ý kiến: Dương Minh Quang — email leq9503@gmail.com.
